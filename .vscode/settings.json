@@ -1,0 +1,7 @@
+{
+    "editor.fontSize": 15,
+    "editor.minimap.enabled": false,
+    "editor.cursorStyle": "line",
+    "editor.wordWrap": "on",
+    "liveServer.settings.port": 5501
+}
